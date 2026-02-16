@@ -76,6 +76,7 @@ class MaxBinaryHeap:
                 child_idx = 2 * parent_idx + 1
             else:
                 break
+
 #heap = MaxBinaryHeap()
 #heap.insert(29).insert(15).insert(44).insert(9).insert(22).insert(40).insert(49)\
 #   .insert(5).insert(10).insert(19).insert(27).insert(35).insert(46).insert(58)\
